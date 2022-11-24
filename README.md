@@ -57,6 +57,9 @@ on common job boards such as seek as they would get flooded with results.
 ### US focused
 - <a href='https://github.com/pittcsc/Summer2023-Internships'>Pittcsc</a> provides small, curated lists of open internship positions
 - <a href='https://simplify.jobs/'>Simplify</a> is an excellent way to streamline the job application process. It autofills many applications for you
+  - <a href='https://www.workatastartup.com/'>YC Work at a Startup</a>
+  - <a href='https://www.untapped.io/'>Untapped</a>
+
 
 ## Linux
 While you don't need to use a Linux desktop, having a basic understanding of some of the fundamental unix tools such as `cat`, `grep` and pipes 
@@ -67,3 +70,7 @@ using these tools is that many of the edge cases have been dealt with or are wel
 The best way to get started would be to install a linux distro as a daily driver
 ### Guides
 - <a href = 'https://linuxjourney.com'>Linux journey</a> provides a well thought out, easy to understand guide to most linux tools you'll need
+
+  
+## Misc
+  https://docs.google.com/spreadsheets/d/19hSRrL4l3gRiJ5ucH9q4iwFo2QHgic9gGMNUrcn1mm0/edit#gid=0
